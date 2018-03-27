@@ -12,7 +12,7 @@ namespace DevOps.Code.Entities.GetEntityTypeRecord
     public static class EntityTypeRecordGetter
     {
         /// <summary>Returns the given entity-type's ID record from the Azure Storage Table entity-types ledger</summary>
-        public static async Task<RepositoryVersionTable> GetEntityTypeRecordAsync(string accountName, string repositoryName)
+        public static async Task<EntityTypeTable> GetEntityTypeRecordAsync(string accountName, string repositoryName)
         {
             var operation = TableOperation.Retrieve<EntityTypeTable>(accountName, repositoryName);
             var table = await GetTable();
