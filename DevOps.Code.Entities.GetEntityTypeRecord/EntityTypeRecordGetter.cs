@@ -18,7 +18,7 @@ namespace DevOps.Code.Entities.GetEntityTypeRecord
             var table = await GetTable();
             var result = await table.ExecuteAsync(operation);
             if (result?.Result == null) return null;
-            return (EntityTypeTable)result.Result;;
+            return (EntityTypeTable)result.Result;
         }
     }
 }
