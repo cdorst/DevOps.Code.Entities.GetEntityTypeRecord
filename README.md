@@ -19,8 +19,8 @@ Name | Description
 
 Name | Status
 ---- | ------
-[CDorst.DevOps.Code.Entities.GetAzureTable](https://github.com/CDorst/DevOps.Code.Entities.GetAzureTable) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-entities-getazuretable.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-entities-getazuretable) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.Entities.GetAzureTable.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.GetAzureTable)
 [CDorst.DevOps.Code.Entities.EntityTypeLedger](https://github.com/CDorst/DevOps.Code.Entities.EntityTypeLedger) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-entities-entitytypeledger.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-entities-entitytypeledger) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.Entities.EntityTypeLedger.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.EntityTypeLedger)
+[CDorst.DevOps.Code.Entities.GetAzureTable](https://github.com/CDorst/DevOps.Code.Entities.GetAzureTable) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-entities-getazuretable.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-entities-getazuretable) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.Entities.GetAzureTable.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.GetAzureTable)
 
 ## NuGet
 
@@ -28,7 +28,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.5
+1.0.6
 
 ## Metaproject
 
